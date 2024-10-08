@@ -1,1 +1,2 @@
 this is a.txt file created inside the local repo
+this is the new data added at the remote git hub 
